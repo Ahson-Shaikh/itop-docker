@@ -217,4 +217,5 @@ docker buildx build \
  - [phusion/baseimage](https://hub.docker.com/r/phusion/baseimage/)
  - [iTop Russian community forum](http://community.itop-itsm.ru) & [Telegram group](https://t.me/itopitsmru)
  - [Some extensions for iTop](https://knowitop.ru/store)
+ - [iTop AI Assistant](https://github.com/knowitop/itop-ai-assistant)
 
